@@ -3,3 +3,5 @@ import turtle,random,draw,save
 data = 0
 save.start(data)
 print(data)
+
+draw.tree(1,2)
