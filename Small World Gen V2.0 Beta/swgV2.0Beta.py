@@ -1,7 +1,7 @@
-import turtle,random,draw,save
+import turtle,random,draw,dataS
 #Main code in here
 data = 0
-save.start(data)
+dataS.save(data)
 print(data)
 
 draw.tree(1,2)
